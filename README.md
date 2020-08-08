@@ -5,7 +5,7 @@ Moral of the story: *not your keys, not your coins*
 
 | Date | Exchange | Amount lost | Source |
 | --- | --- | --- | --- |
-| AUG/20 | 2GETHER | €1.2 MM
+| AUG/20 | 2GETHER | €1.2 MM | https://www.xataka.com/criptomonedas/roban-1-2-millones-euros-bitcoins-plataforma-fintech-espanola-2gether
 | FEB/20 | ALTSBIT | $70000
 | NOV/19 | UPBIT | 342000 ETH
 | NOV/19 | VINDAX | $500000
@@ -50,6 +50,7 @@ Moral of the story: *not your keys, not your coins*
 | MAR/14 | POLONIEX | 97 BTC
 | MAR/14 | MT.GOX | 850000 BTC
 | NOV/13 | BIPS | 484 BTC
+| NOV/13 | PICOSTOCK | 5896 BTC
 | MAY/13 | VIRCUREX | 1454 BTC
 | DEC/12 | BITMARKET.EU |
 | SEP/12 | BITFLOOR | 24000 BTC
