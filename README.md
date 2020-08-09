@@ -18,7 +18,7 @@ Moral of the story: *not your keys, not your coins*
 | FEB/19 | COINBIN | $30 MM
 | JAN/19 | CRYPTOPIA | 1675 ETH
 | JAN/19 | CRYPTOPIA | 19390 ETH
-| DEC/18 | QUADRIGAX | 26350 BTC
+| DEC/18 | QUADRIGAX | 26350 BTC | https://decrypt.co/5853/complete-story-quadrigacx-190-million
 | OCT/18 | MAPLECHANGE | 913 BTC
 | SEP/18 | ZAIF | 5966 BTC
 | JUN/18 | COINRAIL | $40 MM
